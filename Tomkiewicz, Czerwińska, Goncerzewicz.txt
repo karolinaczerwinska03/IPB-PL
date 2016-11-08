@@ -1,0 +1,18 @@
+dzia³anie na kalkulatorze (6-2)/(16-2x3)= :
+
+1. Je¿eli "ON" -> w³¹cz 
+2. Je¿eli "(   )" -> rozwi¹¿ najpierw 
+ - sprawdŸ czy 6>2
+ - je¿eli 6>2 -> znak "+"
+ - je¿eli 6<2 -> znak "-"  
+3. Je¿eli wpisano "1" "6" -> zamieñ na "16" 
+4. Je¿eli "x" pomnó¿ najpierw
+5. Je¿eli "-" -> odejmij
+ - sprawdŸ czy 16>6
+ - je¿eli 16>6 -> znak "+"
+ - je¿eli 16<6 -> znak "-"
+6. Je¿eli "/" -> podziel
+ - sprawdŸ czy 4/10 to iczba ca³kowita
+ - je¿eli nie to wynik w postaci dziesiêtnej
+7. Je¿eli "=" to poka¿ wynik
+8. Je¿eli "OFF" -> wy³¹cz
